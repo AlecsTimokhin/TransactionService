@@ -29,7 +29,7 @@
         <jackson-json.version>2.10.3</jackson-json.version>
 
         <!--jsoup-->
-        <jsoup.version>1.13.1</jsoup.version>
+        <jsoup.version>1.14.2</jsoup.version>
 
     </properties>
 
